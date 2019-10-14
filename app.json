@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/item/index",
+    "pages/talkList/index",
+    "pages/chat/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "自定义导航栏",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}

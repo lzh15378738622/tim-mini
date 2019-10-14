@@ -1,0 +1,7 @@
+<!--pages/item/index.wxml-->
+
+<button bindtap="openConversationList">
+打开会话列表
+</button>
+
+<button bindtap="connect" class="fix-bottom">联系客服</button>
