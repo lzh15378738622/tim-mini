@@ -10,7 +10,7 @@ tim.registerPlugin({ 'cos-wx-sdk': COS })
 
 App({
     onLaunch: function() {
-      
+      let a = 1
     },
     globalData: {
 
